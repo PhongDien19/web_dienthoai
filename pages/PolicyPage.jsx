@@ -1,4 +1,5 @@
 // src/pages/PolicyPage.jsx
+import React from "react";
 import { useParams, Link, Navigate } from "react-router-dom";
 import { Truck, RotateCcw, ShieldCheck } from "lucide-react";
 

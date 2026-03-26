@@ -3,15 +3,15 @@ import {
   MapPin,
   Phone,
   Mail,
-  Facebook,
-  Instagram,
-  Youtube,
+  Globe,
+  MessageCircle,
+  PlayCircle,
 } from "lucide-react";
 
 const socialLinks = [
-  { icon: Facebook, href: "#" },
-  { icon: Instagram, href: "#" },
-  { icon: Youtube, href: "#" },
+  { icon: Globe, href: "#" },
+  { icon: MessageCircle, href: "#" },
+  { icon: PlayCircle, href: "#" },
 ];
 
 const supportLinks = [
